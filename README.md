@@ -5,8 +5,8 @@ I created the "Movies-Comparison Project" to evaluate films and determine which 
 For educational purposes and to hone my development abilities, I'm making these clones.
 
 
-## Demo
-https://ajio-clone-by-niraj.netlify.app/
+## Deploy Link
+https://movies-comparison-by-niraj.netlify.app
 
 
 ## Screenshots
